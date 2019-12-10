@@ -1,0 +1,38 @@
+*** Starting uWSGI 2.0.18 (64bit) on [Tue Dec 10 13:42:35 2019] ***
+compiled with version: 7.3.0 on 22 July 2019 16:35:30
+os: Linux-4.15.0-30deepin-generic #31 SMP Fri Nov 30 04:29:02 UTC 2018
+nodename: douglas-PC
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 8
+current working directory: /home/douglas/PycharmProjects/flask_uwsgi_ngnix
+writing pidfile to /home/douglas/PycharmProjects/flask_uwsgi_ngnix/uwsgi.pid
+detected binary path: /home/douglas/anaconda3/envs/wcleonard/bin/uwsgi
+chdir() to /home/douglas/PycharmProjects/flask_uwsgi_ngnix
+your processes number limit is 30418
+your memory page size is 4096 bytes
+ *** WARNING: you have enabled harakiri without post buffering. Slow upload could be rejected on post-unbuffered webservers *** 
+detected max file descriptor number: 1048576
+lock engine: pthread robust mutexes
+thunder lock: enabled
+Listen queue size is greater than the system max net.core.somaxconn (512).
+*** Starting uWSGI 2.0.18 (64bit) on [Tue Dec 10 13:45:33 2019] ***
+compiled with version: 7.3.0 on 22 July 2019 16:35:30
+os: Linux-4.15.0-30deepin-generic #31 SMP Fri Nov 30 04:29:02 UTC 2018
+nodename: douglas-PC
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 8
+current working directory: /home/douglas/PycharmProjects/flask_uwsgi_ngnix
+writing pidfile to /home/douglas/PycharmProjects/flask_uwsgi_ngnix/uwsgi.pid
+detected binary path: /home/douglas/anaconda3/envs/wcleonard/bin/uwsgi
+chdir() to /home/douglas/PycharmProjects/flask_uwsgi_ngnix
+your processes number limit is 30418
+your memory page size is 4096 bytes
+ *** WARNING: you have enabled harakiri without post buffering. Slow upload could be rejected on post-unbuffered webservers *** 
+detected max file descriptor number: 1048576
+lock engine: pthread robust mutexes
+thunder lock: enabled
+Listen queue size is greater than the system max net.core.somaxconn (512).
